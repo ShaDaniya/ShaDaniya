@@ -7,10 +7,9 @@
 - 🌱 I’m currently learning ...
 - 💬 Ask me about ...
 - 📫 How to reach me:
-
 <!-- - <a href="https://www.linkedin.com/in/sofya-gulkova-1ba9b2245/" target="blank">LinkedIn</a> -->
-- <a href="https://t.me/daniashagieva" target="blank">Telegram</a>
-- <a href="daniyashagieva@gmail.com" target="blank">E-mail</a>
+<a href="https://t.me/daniashagieva" target="blank">Telegram</a>
+<a href="daniyashagieva@gmail.com" target="blank">E-mail</a>
 
 ## Tech Stack
 
