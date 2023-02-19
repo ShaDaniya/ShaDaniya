@@ -1,6 +1,8 @@
 <h1 align="center">Hi there, I'm Daniya 👋</h1>
 <p align="center"> Welcome to my profile! </p>
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&width=600&lines=Welcome+To+ShaDaniya+Github+Profile..)](https://git.io/typing-svg)
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
